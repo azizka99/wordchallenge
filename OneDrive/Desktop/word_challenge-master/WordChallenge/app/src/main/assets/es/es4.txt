@@ -1,0 +1,299 @@
+bala	alba
+caja
+cama
+capa
+cara	arca
+casa	saca
+acta	cata
+vaca
+caza
+caña
+dama
+data
+area
+fama
+gala	alga
+gama
+gana
+paga
+saga	gasa
+paja
+alla
+alma
+lana
+pala
+sala
+lata	tala
+aula
+aval	lava
+alza
+mama
+mapa
+arma	rama
+masa	asma
+nata
+papa
+tapa	pata
+raya
+raza	azar	zara
+tasa	asta
+taza
+beca
+cabo	boca
+boda
+beta	bate	beat
+bajo
+bola
+obra	rabo	abro
+baño
+coca
+cena
+cepa
+cera	arce
+café
+chat
+cima	mica
+cita
+pack
+call
+clan
+cola	loca
+cuna	nuca
+copa	paco
+arco	roca
+caso	cosa	saco	asco
+acto	cota	toca	taco
+coña	caño
+cura
+cría
+edad	dead
+duda
+idea
+seda
+dias	sida	said
+vida	diva
+lado
+moda	doma
+onda
+dato
+daño	doña
+jefa
+fase
+pega	page
+auge
+aire
+lema
+tela
+vela	vale
+leña
+mesa
+tema	meta	mate	team
+pena
+nave	vena
+aseo	osea
+pase	pesa	espa
+peña
+sera	aser
+vera
+ayer
+área
+fuga
+fila
+afán
+faro
+liga
+gira
+guia
+lago
+goma	mago
+pago
+gato	gota
+yoga
+hija
+hoja
+hall
+hora
+that
+mail	lima
+pila
+isla	lisa
+mina	main
+mira	rima
+misa	sima
+niña
+piña
+aqui
+risa
+tira
+taxi
+soja
+joya
+jazz
+olla
+malo	mola	loma
+plan
+luna
+palo
+lazo	loza
+azul
+mamá
+mano	mona
+amor	ramo	mora
+toma
+mayo
+spam
+suma	musa
+maíz
+nota
+vano	nova
+zona	onza
+atún
+ropa	paro	proa
+paso	sopa	sapo
+pato	apto
+pavo
+paño
+rosa	raso
+rato	rota
+rayo
+vaso
+auto
+papá
+país
+puta
+ruta
+raíz
+tuya
+bebé
+bici
+club
+cubo
+bien
+nube
+beso	sebo
+bote
+blog
+lobo	bolo
+boom
+bono
+robo
+tubo
+clic
+coco
+codo
+cese
+chef
+goce
+cine
+cole	celo
+once
+cero	roce	core
+foco
+chip
+ocho
+nick
+zinc
+ocio
+pico
+rock
+culo
+cono
+coro
+coto
+coño
+cupo
+cruz
+dedo
+deje
+sede
+edil
+diez
+dejo
+demo
+nido
+odio	oido
+dios
+modo	domo
+nodo
+nudo
+oído
+jefe
+tele
+pene
+ente
+este
+feto
+they
+miel
+line
+piel
+sine	sien
+león
+pelo	pole	opel
+lote
+velo
+menú
+mero	remo
+seno	nose
+nexo
+tren	rent
+peso	psoe	pose
+tope	pote
+reto
+euro
+sexo
+yeso
+test
+film
+filo
+info
+frio
+flop
+flor
+from	form
+foro
+foto
+frío
+sofá
+surf
+giro
+jugo
+logo
+gozo
+hijo
+hilo
+hito
+humo
+hoyo
+shop
+show
+link
+kilo
+mito	timo
+pino
+vino	ovni
+niño
+piso
+tipo	pito
+tiro	rito	trio
+situ
+lujo
+rojo
+look
+lomo	olmo
+polo
+olor	loro
+plus
+mono
+moto	tomo
+zoom	mozo
+muro
+zumo
+tono	noto
+pozo
+toro	orto
+voto
+puño
+tour
+trío
+your

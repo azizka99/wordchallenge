@@ -1,0 +1,493 @@
+araña
+barba
+banca
+cabra	barca
+banda
+habia
+habla
+habra
+bahía
+rabia
+sabia
+tabla
+barra
+cacao
+caída
+acera
+carga
+chapa
+racha
+calma
+canal	ancla
+placa
+marca
+carpa
+carta	traca
+causa
+aldea
+falda
+manda
+drama
+danza
+radar
+ayuda
+faena
+marea
+arena
+etapa
+tarea
+mafia
+falla
+falta
+fauna
+amiga	magia
+aguja
+plaga
+larga
+manga
+guapa
+grasa
+ansia
+jaula
+malla	llama
+talla
+valla
+palma
+lanza
+plata
+playa
+plaza
+altar
+salsa
+manta
+aroma
+trama	marta
+sauna
+pasta
+pausa
+pauta
+tarta	trata
+bomba
+cable
+banco	bacon
+barco	cobra
+busca
+bando
+baile
+saber
+fibra
+abril	libra
+sabio
+brisa
+jabón	bajón
+album
+balón
+labor	arbol
+bolsa
+broma
+tumba
+abono
+barro
+sabor	sobra
+brazo
+abuso
+cauce	cueca
+chica
+crack
+casco
+celda
+dicha
+ducha
+caldo
+fecha
+calle
+clase
+tecla
+clave
+crema
+carne
+epoca
+acero	corea
+pesca
+recta
+cesta	secta
+cueva
+ficha
+finca
+cifra
+facto
+cargo
+lucha
+macho
+ancho
+clima
+cinta
+copia
+ética
+cajón
+local	callo
+calor	coral
+clavo	calvo
+culpa
+campo
+marco	macro
+mosca
+canon
+canto
+carné	arcén
+cañón
+acoso	ocaso
+pacto
+época
+carro
+actor
+costa
+tacto
+cuota
+vacío
+curva
+deuda
+ideal
+dieta
+madre	dream
+senda
+padre	pared
+tarde
+rueda
+dueña
+funda
+grado	droga	gorda
+huida
+mitad
+radio
+diosa	adios
+audio
+adiós
+viuda
+saldo
+dólar
+salud
+mando
+ronda
+sonda
+stand
+pelea
+feria	fiera
+frase	fresa
+regla
+apego
+viaje	vieja
+email
+reina
+tenia	etnia	nieta
+pieza
+oreja
+oveja
+queja	jaque
+traje
+valle	llave
+metal
+panel	penal
+línea
+papel
+letra	alter	telar
+relax
+selva
+señal
+poema	mapeo
+quema
+anexo
+renta	terna
+venta
+paseo
+poeta
+perra
+presa	pesar
+parte
+ópera
+saque
+flash
+final
+firma
+furia
+fallo
+flora	farol
+flota
+forma
+aforo
+favor
+fruta	trufa
+hogar
+amigo
+gallo
+lugar
+mango
+rango	grano
+tango
+rasgo
+gasto
+silla
+villa
+asilo	salio
+oliva	viola
+pilar
+lista
+prima
+piano	ponia
+orina	noria
+novia	avion
+pinta	paint
+ruina
+nariz
+tinta
+avión
+patio
+ratio	atrio
+aviso
+prisa
+pista
+pizza
+vista
+jamón
+junta
+polla
+tallo
+moral	molar
+pluma
+multa
+plano
+salón
+latín
+lapso
+plato
+plazo
+solar	rosal
+valor
+salto
+norma
+manto	monta
+tramo
+marzo
+razon
+santo
+ratón
+varón
+razón
+apoyo
+prosa
+parto	tropa	trapo	porta	rapto	prota
+vapor	pavor
+pasto	posta
+arroz	zorra
+trato	tarot	torta
+autor
+cobre
+buceo
+bicho
+cobro
+busco
+deber
+borde
+debut
+bordo
+roble
+brote
+verbo
+buque
+globo
+libro
+tribu
+álbum
+bolso
+árbol
+rumbo
+botón
+buzón
+robot
+rubro	burro	rubor
+coche	checo
+cruce
+chico
+click
+ciclo
+cómic
+circo
+dulce
+conde
+cerdo	credo	cedro
+disco
+ácido
+cloud	could
+crudo
+leche
+ciego
+hecho
+chile
+lecho
+noche
+pecho
+techo
+hueco
+cielo	liceo
+clero
+censo
+cerro
+corte	recto	cetro
+cuero
+coste	cesto
+chino	nicho
+shock
+chulo
+vicio
+micro
+icono
+socio
+stock
+colmo
+colon
+color
+lucro
+culto
+costo
+curro
+curso	surco
+truco	turco
+deseo
+finde
+medio	miedo
+video
+molde
+duelo
+orden
+vendo
+poder	pedro	podre
+dueño
+vídeo
+duque
+fondo
+indio
+podio
+sodio
+ruido
+óxido
+dolor
+ídolo
+mundo
+sudor
+gente
+elite
+nieve
+serie
+vejez
+semen
+mente
+enero
+oeste
+fuego
+filme
+freno
+genio
+riego
+gripe
+juego
+ángel
+golpe
+negro
+gesto
+hielo	helio
+hotel
+héroe
+hueso	house
+huevo
+viejo
+nivel
+élite
+reino
+nieto
+tenis	senti
+niñez
+exito
+suite
+reloj
+mujer
+lleno
+sello
+pleno	polen
+telón
+túnel
+suelo
+vuelo
+láser
+monte
+metro	temor	termo
+museo	mouse
+norte	tenor
+envío
+perro
+porte
+queso
+toque	quote
+error
+torre
+resto
+suero
+verso	servo
+señor
+útero
+sexto
+sueño
+texto
+esquí
+revés
+grifo
+folio
+flujo
+fruto
+siglo
+signo
+guión
+rigor
+trigo	grito
+vigor
+logro
+grupo	group
+yogur
+gusto
+himno
+humor
+honor	horno
+sitio
+julio
+junio
+limón
+movil
+móvil
+litro
+lápiz
+ánimo
+primo
+ritmo
+unión
+novio
+tirón
+riñón
+éxito
+pollo
+rollo	lloro
+plomo
+polvo
+pulso
+monto
+motor
+átomo
+rumor
+tumor
+ozono
+torno	trono
+tonto
+punto
+turno
+otoño
+trozo
+tutor
+susto

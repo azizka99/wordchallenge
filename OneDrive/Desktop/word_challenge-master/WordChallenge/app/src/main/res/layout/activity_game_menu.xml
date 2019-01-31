@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="50dp"
+    android:gravity="center|top"
+    android:layout_centerVertical="true"
+    android:background="@drawable/background_material"
+    tools:context="com.one_unit.www.wordchallenge.GameMenuActivity"
+    android:theme="@style/AppTheme.Button">
+
+    <!-- The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc. -->
+    <ImageView
+        android:id="@+id/main_menu_game_title_image"
+        android:layout_width="400dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center|top"
+        android:background="@drawable/main_menu_game_title"
+        android:keepScreenOn="true"
+        />
+
+
+            <Button
+                android:id="@+id/main_menu_continue_button"
+                android:text="@string/continue_button"
+                android:textColor="#FFFFFFFF"
+                android:textSize="30sp"
+                android:layout_centerInParent="true"
+                android:layout_marginTop="20dp"
+                android:layout_width="270dp"
+                android:layout_height="60dp"
+
+                android:layout_below="@+id/main_menu_game_title_image"
+                />
+            <Button
+                android:id="@+id/main_menu_play_button"
+                android:text="@string/play_button"
+                android:textColor="#FFFFFFFF"
+                android:textSize="30sp"
+                android:layout_centerInParent="true"
+                android:layout_marginTop="20dp"
+                android:layout_width="270dp"
+                android:layout_height="60dp"
+                android:layout_below="@+id/main_menu_continue_button"
+                />
+            <Button
+                android:id="@+id/main_menu_options_button"
+                android:text="@string/options_button"
+                android:textColor="#FFFFFFFF"
+                android:textSize="30sp"
+                android:layout_centerInParent="true"
+                android:layout_marginTop="20dp"
+                android:layout_width="270dp"
+                android:layout_height="60dp"
+                android:layout_below="@+id/main_menu_play_button"
+                />
+
+
+</RelativeLayout>

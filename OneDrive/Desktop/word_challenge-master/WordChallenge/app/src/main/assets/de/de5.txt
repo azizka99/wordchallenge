@@ -1,0 +1,752 @@
+abbau
+tabak
+anbau
+basar
+drama
+waage
+haare
+areal
+arena
+paare
+mafia
+fauna
+hamas
+kanal
+skala
+alarm
+anlaß
+altar
+atlas	salat
+sauna
+staat
+babys
+bauch
+abend	bande
+brand
+bands
+board
+farbe
+haben
+abtei
+kabel
+knabe
+baker	break
+label
+alben	nabel
+blaue	laube
+bauen
+abzug
+basis
+album
+labor
+blatt
+umbau
+baron
+braut
+staub	tabus
+coach
+farce
+rache	arche
+sache	asche	achse
+wache
+jacke
+acker
+franc
+cafés
+hauch
+krach
+scham
+macht	match
+nacht
+chaos
+schar	crash	arsch
+rauch
+schau
+wrack
+faden
+gnade
+garde	grade
+ideal
+datei
+danke	dekan
+kader
+laden	lande	nadel
+adler
+adels	deals
+delta	tadel
+damen
+rande	adern
+daten
+dauer
+dampf
+drang	grand
+draht
+radio
+datum
+stand
+stadt
+etage
+allee
+armee
+affen
+waffe
+frage
+hafen	fahne
+falle
+apfel
+tafel
+laufe
+taufe
+gange
+image	magie
+klage
+lagen	angel	nagel	algen
+lager	regal
+magen
+range	anger	nager	argen
+sagen
+tagen	agent
+augen
+wagen	wange
+ganze
+gasse
+tages	tages
+jahre
+haken
+halle
+thema	mathe	thema
+nahen	ahnen
+hasen	sahne	hanse
+phase
+hause
+aktie
+laien	alien
+jeans
+eklat
+marke
+maske
+anker
+akten	kante
+paket
+karte	kater
+kasse
+katze
+lemma
+malen
+ampel	lampe	palme
+maler
+alpen	plane
+alten
+laune
+alter	taler
+altes	tales
+latte
+namen	manne
+armen
+samen	mensa
+rampe
+mauer
+masse
+teams	amtes
+panne
+ozean
+paten
+rasen	arsen
+arten	raten
+waren
+senat
+taten	tante
+opera
+pater
+pause
+raser
+rasse
+rates
+vater
+tasse	asset
+essay
+etwas
+fahrt
+flair
+firma
+tarif
+fazit
+kampf
+kraft
+flora
+anruf
+faust
+klang
+glanz
+gramm
+organ
+tango
+angst
+anzug
+zwang
+stahl
+harms
+klima
+panik
+kitas
+villa
+islam	mails
+april
+piano
+nazis
+pizza
+taxis
+zitat
+major
+knall
+lokal
+pokal	polka
+manko
+markt
+koran	orkan
+knast	tanks
+parks
+kraut
+stall
+moral
+salon
+platz
+stamm
+roman
+monat
+traum	armut
+notar
+natur	unrat
+prosa
+autor
+autos
+papst
+party
+spass
+stars
+start
+staus
+beben
+bibel
+bombe
+buben
+hobby
+lobby
+blech
+buche
+bruch
+buchs	schub	busch
+bucht
+blick	blick
+block
+clubs
+diebe
+boden
+bände
+böden
+derby
+bäder
+debüt
+ebene
+beleg	gelbe
+berge
+gebet
+hebel
+liebe	leibe
+beine	biene
+leben	nebel
+leber
+erben	ebner	reben
+weber
+beste
+beute
+brief
+beruf
+bogen
+gebot
+grube
+bezug	bezug
+bühne
+brite	trieb
+bitte
+jubel
+bänke
+bälle
+blume
+möbel
+rubel
+blues
+blüte
+bäume
+beton	boten	toben
+boxen
+bären
+bösen
+boote
+probe
+boxer
+bosse
+börse
+brett
+busse
+stube
+bytes
+übung
+obhut
+kombi
+mobil
+blitz
+klubs
+bonus
+büros
+brust
+comic
+decke
+dreck
+credo
+disco
+druck
+eiche
+zeche
+ecken
+chefs
+fleck
+hecht
+reich
+teich
+köche
+küche
+woche	woche
+recht
+chöre
+suche	scheu
+lücke
+speck
+zweck
+cello
+cover
+fisch
+fluch
+glück
+schuh
+milch
+licht
+chips
+sicht	tisch	stich
+mönch
+schoß
+sucht
+schuß
+wucht
+zucht
+trick
+stock
+stück
+clown
+corps
+coupé
+court
+feder
+herde
+ideen
+elend
+leder
+enden
+reden	erden
+endes
+wende
+fidel
+feind
+funde
+fäden
+pferd
+glied	gilde
+dinge
+guide
+droge
+hunde
+hände
+hürde
+kleid
+inder	rinde
+winde
+index	index
+video
+juden
+kunde
+duell
+model
+läden
+erdöl
+monde	moden
+munde
+morde
+dänen
+orden
+dosen	sonde
+trend
+runde
+süden	sünde
+wunde
+wände
+depot
+order
+todes
+ruder
+räder
+würde
+duett
+fonds
+pfund
+grund
+indiz
+world
+modus
+durst
+leere
+seele
+neffe
+feier	reife	eifer	freie
+tiefe
+elfer
+ferne
+feuer
+feste
+geige
+egger
+gehen
+genie	eigen
+regie	riege
+siege
+wiege
+engel
+regel
+segel
+menge
+regen	genre	neger
+segen
+wegen
+geste
+weges
+zeuge
+reihe
+theke
+lehen
+lehre
+ehren
+sehen
+hexen
+heuer
+hesse
+these
+teile	elite
+weile
+ziele	zeile
+miene
+miete
+einen
+einer	eiern	niere
+eisen
+weine
+serie	reise	riese
+tiere
+seite	seite
+weise	wiese
+weite
+enkel
+werke	kerwe
+sekte
+kette
+level
+welle
+zelle
+lesen
+leser
+leute	leute
+zelte
+meter
+messe
+enten
+neuen
+queen
+rente	ernte
+essen	sense
+neues
+wesen
+szene
+event
+netze
+speer
+reste	erste
+verse
+treue
+werte
+revue
+weste
+wette
+texte
+treff
+greif
+folge
+flüge
+hilfe
+häfen
+höfen
+fähre
+filme
+pfeil
+fleiß
+fries
+funke
+köpfe
+käfer
+fälle
+fülle
+äpfel
+flöte
+wölfe
+füßen
+opfer
+foyer
+werft
+stufe
+gänge
+hügel
+gehör
+krieg
+ligen
+gleis
+ringe
+tiger
+geist
+zweig
+junge
+jäger
+kugel
+lunge
+länge	nägel
+lügen
+orgel
+vogel
+vögel
+umweg
+ränge
+grüne
+guten
+zunge
+genuß
+gänze
+zügen
+sorge
+große
+ärger
+gerät
+güter
+größe
+grüße
+gutes
+gäste
+höhle
+höhen
+ethik
+hitze
+kohle
+hölle
+hülle
+mühle
+löhne
+hotel
+wohle
+hymne
+mühen
+ohren
+hosen
+herrn
+uhren
+hören
+söhne
+zähne
+hörer	röhre
+härte	äther
+hütte
+linie
+linke	linke
+kopie
+kreis	krise	kreis
+kiste
+pille
+wille
+limes
+insel	linse
+lippe
+spiel
+pilze
+liter
+liste	teils	stile	stiel
+titel
+minen
+movie
+remis	reims
+mitte	mitte
+sinne
+ruine
+viren
+stein	einst
+preis	prise
+piste
+spieß
+risse
+stier
+wirte
+weiss
+sitte
+suite
+sitze
+witwe
+witze
+joker
+kreml
+onkel
+wolke
+kälte
+krems	krems
+krone
+kurse
+werks
+türke
+kurve
+kreuz
+kürze	kürze
+küste
+rolle
+ulmen
+ulmer
+ärmel
+pläne
+löwen
+erlös
+säule
+summe
+münze
+moore
+tempo
+ämter
+türme
+räume
+wärme
+mäuse
+mütze
+sonne
+noten	tonne
+zonen
+tönen	nöten
+opern
+posen
+rosen
+toren	orten	tenor
+osten
+toten	netto
+typen
+stern	ernst
+türen
+venus
+tänze
+quote
+ortes	sorte	rotes	tores
+toter	torte
+route
+worte	tower
+puppe
+suppe
+super
+pässe
+russe
+täter
+väter
+ärzte
+tests
+wüste
+sätze
+griff
+stoff
+figur
+unfug
+films
+infos
+profi
+frist	first
+stift
+kluft
+knopf
+fokus
+fluss
+forum
+rumpf
+front
+zunft
+fotos	fotos
+frost	forst
+frust
+fürst
+zuruf
+spvgg
+honig
+logik
+könig
+grill
+girls
+swing
+jungs
+umzug
+songs
+gunst
+stuhl
+humor
+thron
+photo
+stroh
+shows
+krimi
+limit
+sinti
+joint
+komik
+kiosk
+lyrik
+musik
+kinos
+kripo
+optik
+pilot
+minus
+motiv
+union
+prinz
+stirn
+tipps
+virus
+tritt
+konto
+punkt
+kunst
+korps
+lotto
+stolz
+luxus
+novum
+unmut
+motor
+motto
+strom
+votum
+sturm	turms
+porto
+stopp
+sport	sport	prost
+spott
+trost
+story
+trotz
+trust
+wurst
+sturz

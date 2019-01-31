@@ -1,0 +1,442 @@
+data
+area
+baby
+back
+band
+beam
+bear
+base
+beat	beta
+ebay
+bang
+bath
+bias
+bait
+bank
+ball
+lamb
+barn
+boat
+bass
+acid
+card
+face	cafe
+cage
+cake
+pace	cape
+care	race	acre
+case
+cave
+fact
+chap
+arch	char
+cash
+chat
+lack
+pack
+rack
+call
+coal
+clay
+camp
+scam
+scan
+cant
+coat
+crap	carp
+cart
+cast
+dead
+head
+idea	aide
+deal	lead
+read	dear
+date
+drag	grad
+hand
+dash
+raid
+dark
+land
+load
+lady
+sand
+dawn	wand
+road
+draw	ward
+yard
+ease
+leaf	flea
+fame
+fear	fare
+fate	feat
+game
+page
+gear	rage
+gate
+wage
+heat	hate
+lake	leak	kale
+peak
+sake
+take
+wake
+meal	male
+lane
+plea	leap	pale
+sale	seal
+tale
+name	mean
+team	meat	mate	meta
+exam
+rape	pear
+tape	peat
+rear
+rate	tear
+wear	ware
+year
+seat	east
+wave
+flag
+half
+fall
+foam
+farm
+sofa
+gang
+gain
+goal
+yoga
+hair
+hall
+harm
+math
+oath
+path
+wash
+jail
+mail
+nail
+rail	liar
+tail
+pain
+rain
+pair
+visa
+axis
+wait
+taxi
+jazz
+talk
+walk
+mark
+mask
+rank
+tank
+park
+task
+wall
+ally
+lamp	palm
+loan
+plan
+lawn
+alot
+play
+salt
+spam
+army
+mass
+span	snap
+soap
+auto
+part	trap
+pass
+past
+star
+tray
+stay
+bulb
+bomb
+club
+debt
+bird
+bond
+body
+beef
+beer
+bike
+bite
+bell
+belt
+blue
+bone
+tube
+blog
+bill
+bulk
+book
+bull
+bolt
+bowl	blow
+boom
+tomb
+nbsp
+boot
+boss
+deck
+code
+disc
+dock
+duck
+cold
+cord
+chef
+tech
+epic
+rice
+neck
+cell
+clue
+cent
+core
+spec
+cure
+crew
+inch	chin
+chip
+kick
+pick
+clip
+icon	coin
+city
+lock
+luck
+cook
+rock	cork
+cult
+corn
+crop
+coup
+copy
+cost
+deed
+dude
+feed
+edge
+need
+deer	reed
+seed
+weed
+herd
+ride
+side
+diet	tide
+dive
+desk
+mode	demo	dome
+node
+dose
+fold
+fund
+food
+grid
+gold
+good
+drug
+dish
+hold
+hood
+kind
+disk
+mind
+wind
+void
+dirt
+lord
+mood	doom
+drum
+pond
+dont
+door	odor
+wood
+drop
+word
+dust	stud
+duty
+feel
+gene
+knee
+week
+else
+peer
+tree
+life	file
+fine
+fire
+wife
+self
+left
+fuel
+glue
+hike
+hire	heir
+hive
+hell
+hole
+help
+home
+hope
+hero
+shoe	hose
+hype
+mile	lime
+line	lien
+pile
+evil	veil
+mine
+time	item	mite
+pine
+vein	vine
+wine
+pipe
+rise
+wire
+site
+size
+exit
+view
+joke
+well
+lens
+pole
+role	lore
+love
+rule	lure
+menu
+poem
+move
+temp
+term
+mess
+stem
+none	neon
+nose
+note	tone
+oven
+zone
+rent
+nest
+news
+tent
+tune
+rope
+poet
+euro
+vote	veto
+prey
+step	pest
+type
+rest
+user
+tyre
+test
+west	stew
+text
+gift
+golf
+fish
+film
+lift
+firm
+info
+folk
+fool
+flow	wolf
+form
+font
+roof
+foot
+high
+king
+girl
+ring	grin
+sign
+wing
+grip
+lung
+logo
+glow
+plug
+song
+hill
+hint
+ship
+shit	this
+wish
+hook
+myth
+horn
+hunt
+shop
+hour
+shot	host
+show
+thou
+push
+rush
+milk
+link	kiln
+silk
+skin	sink
+risk
+kiss
+mill
+pill
+will
+lion
+soil
+slip
+list	slit	silt
+iron	noir
+spin
+unit
+trio	riot
+trip
+pity
+suit	situ
+junk
+jump
+jury
+look
+punk
+pork
+work
+poll
+roll
+toll
+lump
+pool	loop	polo
+solo
+tool	loot
+wool
+plot
+loss
+slot
+soul
+plus
+moon
+norm
+room	moor
+pump
+noon
+porn
+snow
+town	wont
+turn
+root
+port
+post	spot	stop
+soup
+sort
+tour

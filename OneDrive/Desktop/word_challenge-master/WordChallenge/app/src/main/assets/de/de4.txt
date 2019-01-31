@@ -1,0 +1,428 @@
+gala
+haar
+maja
+lama
+saal
+aula
+mama
+papa
+paar
+aura
+baby
+bach
+back
+band
+gabe
+base
+beat
+grab
+bahn
+bank
+ball
+blau
+baum
+bann
+bars
+bart	trab
+raub
+bass
+stab
+baus
+tabu	tuba
+dach
+fach
+café
+cash
+acht	chat
+sack
+camp
+adel
+dame	made
+pfad
+jagd
+grad
+hand
+aids	dias
+dank
+land
+wald
+lady
+damm
+rand
+sand
+wand
+lage
+page
+tage	gate
+auge
+haie
+nahe
+hase
+laie
+lake
+akte
+male
+elan
+real
+alte
+name	name	amen
+arme
+team	atem
+maße
+nase
+oase
+pate
+ware
+asse
+etat
+graf
+haft
+fakt
+kauf
+fall	fall
+lauf
+fans
+sofa	faso
+frau
+fass
+saft
+gang
+hang
+liga	liga
+glas
+rang
+yoga
+gras	sarg
+grau
+gast	tags
+hahn
+thai
+jahr
+khan
+hall
+hals
+halt
+wahl
+zahl	zahl
+zahn
+harz
+hass
+haus
+haut
+mais	amis
+vita
+taxi
+jazz
+lask
+talk
+kamm
+koma
+mark	kram
+kran
+tank
+park
+pakt
+takt
+maul
+plan
+qual
+last
+asyl
+salz
+mann
+mars	arms
+raum
+mass
+amts	mast
+maus
+matt
+span
+uran
+tanz
+zaun
+auto
+part
+pass
+spaß
+star	rast	rats
+arzt
+stau
+satz	satz
+watt
+buch
+club
+dieb
+bild	bild
+bond
+bund
+bord
+erbe
+gelb
+berg
+leib	blei	beil	lieb
+bein
+bier	brei
+weib
+übel
+böse
+bett
+gmbh
+burg
+biss
+jobs
+klub
+korb
+blut
+boom
+boot
+brot
+büro
+boss
+obst
+boys
+code
+ecke
+chef
+heck
+echo
+pech
+cent
+crew
+cest
+hoch
+chip
+loch
+chor
+tuch
+kick
+city
+rock
+coup
+idee
+ende	eden
+rede	erde
+feld
+geld
+held
+hemd
+herd	dreh
+lied	leid
+neid
+drei
+jude
+mode	demo	dome
+tode
+fund
+food
+dorf
+duft
+ding
+gold
+hund
+kind
+kids	disk
+idol
+wild
+wind
+judo
+lord
+mond
+mund
+mord
+nord	dorn	nord
+gene	enge
+wege
+ehen
+ehre	heer	rehe
+hexe
+eile
+eier
+klee	ekel
+esel
+meer
+rene
+seen
+reue
+sees
+heft
+höfe
+file
+tief
+fell
+fels
+ofen
+ufer	rufe
+fest
+fett
+fuße
+füße
+igel
+gier
+sieg
+lüge
+steg
+gute
+güte
+zuge	zeug
+züge
+hehl
+höhe
+heil
+heim
+vieh
+kühe
+helm	mehl	lehm
+mühe
+nähe
+hose
+herr	herr
+ruhe	hure
+wehr
+herz
+keim
+seil
+teil
+live
+exil
+ziel
+mine
+iren
+eins
+wein
+reis
+tier
+vier
+reiz
+zeit	zeit
+vize
+weiß
+jesu
+kerl
+kern
+werk
+sekt
+käse
+pole
+lupe
+welt	welt
+zelt
+löwe
+menü
+note
+zone
+urne
+nest
+netz
+töne	nöte
+oper
+expo
+rose	eros
+tore	orte
+euro	euro
+tote
+veto
+pest	step
+rest
+wert
+räte
+türe
+test
+west	west
+äste
+text	text
+fünf
+gift
+golf
+flug
+film
+info	info
+folk
+funk
+kopf
+foul
+flur
+luft	flut
+fluß
+form	from
+foto	foto
+topf
+fort
+wurf
+fuss
+high
+girl
+ring
+giro
+song	ngos
+grün
+gros
+gott
+vogt
+gruß
+hohn
+huhn
+hirn
+hits
+html
+lohn
+wohl
+holz
+homo
+ruhm
+horn
+sohn
+rohr
+hort
+show
+http
+mini
+juli
+juni
+kilo
+kino
+stil	list
+miss
+mist
+sinn
+unis
+trio
+tipp	tipp
+tips
+wirt
+sitz
+witz
+jury
+volk
+kult
+korn
+punk
+kost
+kurs
+müll
+zoll
+lärm
+pool	polo
+solo
+soul
+plus	puls
+pult
+lust
+norm
+mopo
+moor
+moos
+most
+turm
+wurm
+märz
+muss
+zorn
+port
+post	stop	spot
+opus
+ross
+tour
+wort
+spur
+typs
+putz
